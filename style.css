@@ -1,0 +1,15 @@
+*{
+    
+        font-family: "Poppins", sans-serif;
+        font-weight: 300;
+        font-style: normal;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        border: none;
+        text-decoration: none;
+        text-decoration: none;
+        text-transform: capitalize;
+        transition: .2s linear;
+    
+}
